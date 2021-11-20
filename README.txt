@@ -8,3 +8,7 @@ This file is a description for the following files:
 5. File "Equation_8.py" is a program to generate random distribution and larger scale of the calibration point sets, i.e., Equation (8) in this paper. This file our self-designed file.
 
 Note that file "A_real_world_scenario.xlsx" is applied in the real-world problem in Section III, and files "Sparse_data_set.xlsx", "Dense_data_set.xlsx", and "Equation_8.py" are used as the original datasets in large-scale experiments in Section VII.
+
+Ref. [12]	China Academic Degrees & Graduate Education Development Center, “Optimal usage of UAV in rescue and disaster relief,” in 14th China Post-Graduate Mathematical Contest in Modeling (2017), pp. 1–3.
+
+Ref. [13]	China Academic Degrees & Graduate Education Development Center, “Rapid path planning of intelligent aircraft under multiple constraints,” in 16th China Post-Graduate Mathematical Contest in Modeling (2019), pp. 1–4.
